@@ -1,0 +1,12 @@
+type: edu
+files:
+- name: src/App.js
+  visible: true
+- name: src/index.css
+  visible: false
+- name: src/index.html
+  visible: false
+- name: src/index.js
+  visible: false
+- name: test/test.js
+  visible: false
